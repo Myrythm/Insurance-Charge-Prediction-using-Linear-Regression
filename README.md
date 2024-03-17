@@ -12,6 +12,8 @@ To run the code, you need Python 3 and the following libraries:
 - NumPy
 - Pandas
 - Scikit-learn
+- Seaborn
+- Matplotlib.pyplot
 
 You can install the required libraries using pip
 
