@@ -5,7 +5,7 @@ This repository contains code for predicting insurance costs using linear regres
 ## Dataset
 
 The dataset used for training the model is included in the repository (`insurance.csv`). It consists of features like age, sex, BMI, number of children, smoking status, and region, along with the corresponding insurance charges.
-Link Dataset: https://www.kaggle.com/datasets/easonlai/sample-insurance-claim-prediction-dataset
+Link Dataset: https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset
 ## Installation
 
 To run the code, you need Python 3 and the following libraries:
