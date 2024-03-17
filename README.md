@@ -1,4 +1,4 @@
-# Insurance Charges Prediction using Linear Regression
+# Insurance Charge Prediction using Linear Regression
 
 This repository contains code for predicting insurance charge using linear regression. The model is trained on a dataset containing information such as age, BMI, smoking habits, region, etc., to predict the insurance charges for individuals.
 
